@@ -5,8 +5,15 @@
 
 ## Description
 This is a module 18 NoSQL challenge. Made with Mongodb, and tested with insomnia. 
+![image](https://github.com/EBOX26/social-network-api/assets/139289311/5731add8-5cc9-48cb-ab0f-39b06375ee4d)
 
 ---
+
+## Screenshots:
+![image](https://github.com/EBOX26/social-network-api/assets/139289311/fa64cfec-a64e-4279-a336-e45f9d2e68e8)
+
+
+
 
 ## Table of Contents
 
